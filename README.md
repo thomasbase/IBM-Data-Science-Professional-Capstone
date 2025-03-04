@@ -1,0 +1,1 @@
+The purpose of this final project to the IBM Data Science Professional course pathway was to identify trends in historical SpaceX launch data to predict future landing outcomes of launches from a simulated new company, SpaceY.
